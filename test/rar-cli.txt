@@ -1,0 +1,5 @@
+#to compress a file use the following command, where archive name is the name of the arcives
+rar a ArchiveName File_1 File_2 Dir_1 Dir_2
+
+#these unzip a file via cli 
+unrar x FileName.rar
